@@ -1,4 +1,4 @@
-# Ivan Geier - Portifolio
+# Ivan Geier - Portfolio
 
 Please check it out my portifolio of web applications ;) 
 
