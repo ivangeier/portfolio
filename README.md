@@ -7,5 +7,6 @@ No following tutorials used here!
 ## HTML, CSS and JS
 
 **Calculator**
-![Repository](https://github.com/ivangeier/calculator)
+
+[Repository](https://github.com/ivangeier/calculator)
 Live URL
