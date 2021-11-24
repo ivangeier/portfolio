@@ -8,5 +8,5 @@ No following tutorials used here!
 
 **Calculator**
 
-Repository: [GitHub](https://github.com/ivangeier/calculator)
+Repository: [GitHub](https://github.com/ivangeier/calculator)  
 Live URL: [Github Pages](https://ivangeier.github.io/calculator/)
