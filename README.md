@@ -1,6 +1,6 @@
 # Ivan Geier - Portfolio
 
-Please check it out my portifolio of web applications ;) 
+Please check it out my portfolio of web applications ;) 
 
 No following tutorials used here!
 
