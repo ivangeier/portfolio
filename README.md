@@ -1,6 +1,6 @@
 # Ivan Geier - Portfolio
 
-![LinkedIn](https://www.linkedin.com/in/ivangeier/)
+[LinkedIn](https://www.linkedin.com/in/ivangeier/)
 
 ## HTML, CSS and JS (The Basics)
 
