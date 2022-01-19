@@ -6,18 +6,29 @@ No following tutorials used here!
 
 ## HTML, CSS and JS (The Basics)
 
-- [x] **Calculator**
+### Calculator
 
 Repository: [GitHub](https://github.com/ivangeier/calculator)  
 Live URL: [Github Pages](https://ivangeier.github.io/calculator/)
 
 
-- [x]  **Audio Player**
+### Audio Player
 
 Repository: [GitHub](https://github.com/ivangeier/AudioPlayer)  
 Live URL: [Github Pages](https://ivangeier.github.io/AudioPlayer/)
 
 
-- [x]  **Weather**
+### Weather (API)
 
 Repository: [GitHub](https://github.com/ivangeier/weather)  
+
+### Moviee
+
+- [x] API
+- [x] Promises
+- [x] Async Await
+- [x] MVC
+
+Repository: [GitHub](https://github.com/ivangeier/moviee)  
+Live URL: [Github Pages]()
+
