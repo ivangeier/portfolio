@@ -1,8 +1,6 @@
 # Ivan Geier - Portfolio
 
-Please check it out my portfolio of web applications ;) 
-
-No following tutorials used here!
+![LinkedIn](https://www.linkedin.com/in/ivangeier/)
 
 ## HTML, CSS and JS (The Basics)
 
